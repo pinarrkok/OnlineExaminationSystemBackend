@@ -1,0 +1,14 @@
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Pinar\source\repos\OnlineExaminationSystemBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
