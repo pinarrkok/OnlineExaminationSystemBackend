@@ -5137,11 +5137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Pinar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5157,8 +5157,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Business\\Business.csproj"
+            "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Business\\Business.csproj"
             }
           }
         }

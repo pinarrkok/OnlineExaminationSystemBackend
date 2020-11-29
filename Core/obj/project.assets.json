@@ -6245,11 +6245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Pinar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pinar\\AppData\\Roaming\\NuGet\\NuGet.Config",

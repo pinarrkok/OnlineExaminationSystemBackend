@@ -6196,11 +6196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Pinar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6216,8 +6216,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\Core.csproj"
+            "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj"
             }
           }
         }

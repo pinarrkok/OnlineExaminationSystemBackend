@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Business\\Business.csproj": {
+    "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Pinar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj"
+              "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\Core.csproj": {
+    "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Pinar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -139,14 +139,14 @@
         }
       }
     },
-    "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Pinar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -162,11 +162,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\Core.csproj"
+              "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj"
               },
-              "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj"
+              "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj"
               }
             }
           }
@@ -205,14 +205,14 @@
         }
       }
     },
-    "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj": {
+    "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Pinar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -228,8 +228,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Core\\Core.csproj"
+              "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj"
               }
             }
           }
@@ -264,14 +264,14 @@
         }
       }
     },
-    "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Pinar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -287,8 +287,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Pinar\\source\\repos\\OnlineExaminationSystemBackend\\Business\\Business.csproj"
+              "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Business\\Business.csproj"
               }
             }
           }
