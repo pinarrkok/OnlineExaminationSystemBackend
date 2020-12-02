@@ -1,5 +1,6 @@
 ﻿using Business.Abstract;
 using Business.Constants;
+using Core.Entities.Concrete;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -36,10 +37,29 @@ namespace Business.Concrete
             return new SuccessDataResult<User>(_userDal.Get(filter: user => user.Id == userId));
         }
 
+        public User GetByLastName(string lastName)
+        {
+            return _userDal.Get(u => u.LastName == lastName);
+        }
+
+        public User GetByMail(string email)
+        {
+            return _userDal.Get(u => u.Email == email);
+        }
+
+        public User GetByName(string firstName)
+        {
+            return _userDal.Get(u => u.FirstName == firstName);
+        }
+
+        public List<OperationClaim> GetClaims(User user)
+        {
+            return _userDal.GetClaims(user);
+        }
+
         public IDataResult<List<User>> GetList()
         {
-            List<User> val = _userDal.GetList().ToList();
-            return new SuccessDataResult<List<User>>(val);
+            return new SuccessDataResult<List<User>>(_userDal.GetList().ToList());
         }
 
         public IResult Update(User user)

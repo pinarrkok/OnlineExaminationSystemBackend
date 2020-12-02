@@ -22,3 +22,15 @@ C:\Users\Pinar\Desktop\OnlineExaminationSystemBackend\Entities\obj\Debug\netstan
 C:\Users\Pinar\Desktop\OnlineExaminationSystemBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
 C:\Users\Pinar\Desktop\OnlineExaminationSystemBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\Pinar\Desktop\OnlineExaminationSystemBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb

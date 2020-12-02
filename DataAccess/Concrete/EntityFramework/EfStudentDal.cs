@@ -8,7 +8,7 @@ using System.Text;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    class EfStudentDal : EfEntityRepositoryBase<Student, OnlineExaminationSystemContext>, IStudentDal
+    public class EfStudentDal : EfEntityRepositoryBase<Student, OnlineExaminationSystemContext>, IStudentDal
     {
     }
 }

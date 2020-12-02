@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj": {}
+    "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj": {
+    "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Pinar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pinar\\Desktop\\OnlineExaminationSystemBackend\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +52,23 @@
               "target": "Package",
               "version": "[3.1.0, )"
             },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.5.0, )"
             }
           },
           "imports": [

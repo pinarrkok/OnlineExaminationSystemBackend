@@ -7,6 +7,7 @@ namespace Entities.Concrete
 {
     public class CourseExam : IEntity
     {
+        public int Id { get; set; }
         public int CourseId { get; set; }
         public int ExamId { get; set; }
     }
