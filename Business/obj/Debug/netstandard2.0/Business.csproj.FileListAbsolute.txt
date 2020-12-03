@@ -42,7 +42,7 @@ C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Busines
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
-C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache

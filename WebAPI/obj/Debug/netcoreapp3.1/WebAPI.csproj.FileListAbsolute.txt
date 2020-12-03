@@ -110,7 +110,6 @@ C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
-C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -157,5 +156,9 @@ C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache

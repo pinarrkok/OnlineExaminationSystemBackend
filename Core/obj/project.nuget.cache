@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ra1XLGstHpPK1SDmyfmOqtgfS7u2gxllzZztmsyTqyx75I+Dy5X2qGctg2YRRbGsFjC060BJDTRjIrhDNo6geA==",
+  "dgSpecHash": "K75Yf0Gj4R2+wKgYw7GmU8C55GjWCjEm5TlO7M2d7hSsdYuJfwalx5Sh5/zR4QQntt7RLqptGmz/TnoXO7+yWw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Pinar\\.nuget\\packages\\autofac\\4.0.1\\autofac.4.0.1.nupkg.sha512",
+    "C:\\Users\\Pinar\\.nuget\\packages\\autofac.extras.dynamicproxy\\4.5.0\\autofac.extras.dynamicproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\Pinar\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
+    "C:\\Users\\Pinar\\.nuget\\packages\\fluentvalidation\\8.5.0\\fluentvalidation.8.5.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -68,6 +72,7 @@
     "C:\\Users\\Pinar\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "C:\\Users\\Pinar\\.nuget\\packages\\system.diagnostics.tracesource\\4.3.0\\system.diagnostics.tracesource.4.3.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",

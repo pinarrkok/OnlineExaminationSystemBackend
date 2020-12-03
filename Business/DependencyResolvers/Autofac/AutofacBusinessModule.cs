@@ -7,6 +7,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using Core.Utilities.Security.JWT;
+using Castle.DynamicProxy;
+using Autofac.Extras.DynamicProxy;
+using Core.Utilities.Interceptors;
 
 namespace Business.DependencyResolvers.Autofac
 {
@@ -22,6 +25,14 @@ namespace Business.DependencyResolvers.Autofac
 
             builder.RegisterType<AuthManager>().As<IAuthService>();
             builder.RegisterType<JwtHelper>().As<ITokenHelper>();
+
+            var assembly = System.Reflection.Assembly.GetExecutingAssembly();
+
+            builder.RegisterAssemblyTypes(assembly).AsImplementedInterfaces()
+                .EnableInterfaceInterceptors(new ProxyGenerationOptions()
+                {
+                    Selector = new AspectInterceptorSelector()
+                }).SingleInstance();
         }
     }
 }
