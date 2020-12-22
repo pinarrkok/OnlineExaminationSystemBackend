@@ -1,9 +1,13 @@
 ﻿using Business.Abstract;
+using Business.BusinessAspects.Autofac;
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
 using Core.Aspects.Autofac.Caching;
+using Core.Aspects.Autofac.Logging;
+using Core.Aspects.Autofac.Performance;
 using Core.Aspects.Autofac.Transaction;
 using Core.Aspects.Autofac.Validation;
+using Core.CrossCuttingConcerns.Logging.Log4Net.Loggers;
 using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
@@ -56,6 +60,8 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
+        // bu operasyonun çalışması 5 snyi geçerse
+        [PerformanceAspect(5)]
         public IDataResult<Exam> GetById(int examId)
         {
             return new SuccessDataResult<Exam>(_examDal.Get(filter: exam => exam.Id == examId));
@@ -66,6 +72,8 @@ namespace Business.Concrete
             return new SuccessDataResult<Exam>(_examDal.Get(filter: exam => exam.Title == examTitle));
         }
 
+        [SecuredOperation("Student.List")]
+        [LogAspect(typeof(FileLogger))]
         [CacheAspect(10)]
         public IDataResult<List<Exam>> GetList()
         {

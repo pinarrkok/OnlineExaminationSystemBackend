@@ -22,7 +22,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpGet("getlist")]
-        [Authorize(Roles = "Student.List")]
+        //[Authorize(Roles = "Student.List")]
         public IActionResult GetList()
         {
             var result = _studentService.GetList();
