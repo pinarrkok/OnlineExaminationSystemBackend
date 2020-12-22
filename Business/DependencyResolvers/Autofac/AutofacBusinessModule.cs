@@ -23,6 +23,9 @@ namespace Business.DependencyResolvers.Autofac
             builder.RegisterType<StudentManager>().As<IStudentService>();
             builder.RegisterType<EfStudentDal>().As<IStudentDal>();
 
+            builder.RegisterType<ExamManager>().As<IExamService>();
+            builder.RegisterType<EfExamDal>().As<IExamDal>();
+
             builder.RegisterType<AuthManager>().As<IAuthService>();
             builder.RegisterType<JwtHelper>().As<ITokenHelper>();
 

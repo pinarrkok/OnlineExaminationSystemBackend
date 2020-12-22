@@ -36,9 +36,9 @@ namespace Business.Concrete
             return new SuccessDataResult<Student>(_studentDal.Get(filter: student => student.UserId == userId));
         }
 
-        public Student GetByStudentId(string studentId)
+        public IDataResult<Student> GetByStudentId(string studentId)
         {
-            return _studentDal.Get(s => s.StudentId == studentId);
+            return new SuccessDataResult<Student>(_studentDal.Get(s => s.StudentId == studentId));
         }
 
         public IDataResult<List<Student>> GetList()

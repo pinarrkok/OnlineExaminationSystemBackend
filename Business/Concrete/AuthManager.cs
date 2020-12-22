@@ -44,8 +44,9 @@ namespace Business.Concrete
             return new SuccessDataResult<User>(userToCheck, Messages.SuccessfulLogin);
         }
 
-        public IDataResult<User> Register(UserForRegisterDto userForRegisterDto, string password)
+        public IDataResult<User> Register(UserForRegisterDto userForRegisterDto)
         {
+            string password = userForRegisterDto.Password;
             HashingHelper.CreatePasswordHash(password, out byte[] passwordHash, out byte[] passwordSalt);
 
             var user = new User

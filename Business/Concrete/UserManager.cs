@@ -67,6 +67,11 @@ namespace Business.Concrete
             return new SuccessDataResult<List<User>>(_userDal.GetList().ToList());
         }
 
+        public IResult TransactionalOperation(User user)
+        {
+            throw new NotImplementedException();
+        }
+
         public IResult Update(User user)
         {
             _userDal.Update(user);
