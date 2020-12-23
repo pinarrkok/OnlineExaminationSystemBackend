@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Lq65ZtST1wW5EV6gJddC/PeZb5YLxwuQDosbJm4/DKU7C1P4LyV/yMUzuJBCpsYwa9xoIZvmX3Zxufp1J+QHIw==",
-  "success": false,
+  "dgSpecHash": "t7AywugwTGbiujOvl3qorFA2FHrFPJ8HVHPRKs5uObl6E4ZQAcK64HaKkaGhyWOZSgyxgH/Bl5J8/WbC+6xAIA==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\Business\\Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Pinar\\.nuget\\packages\\autofac\\4.6.0\\autofac.4.6.0.nupkg.sha512",
+    "C:\\Users\\Pinar\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\autofac.extensions.dependencyinjection\\5.0.0\\autofac.extensions.dependencyinjection.5.0.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\autofac.extras.dynamicproxy\\4.5.0\\autofac.extras.dynamicproxy.4.5.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
@@ -136,24 +136,5 @@
     "C:\\Users\\Pinar\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: Autofac from 4.9.1 to 4.6.0. Reference the package directly from the project to select a different version. \r\n Business -> DataAccess -> Core -> Autofac.Extensions.DependencyInjection 5.0.0 -> Autofac (>= 4.9.1) \r\n Business -> Autofac (>= 4.6.0)",
-      "libraryId": "Autofac",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: Autofac from 4.9.1 to 4.6.0. Reference the package directly from the project to select a different version. \r\n Business -> Entities -> Core -> Autofac.Extensions.DependencyInjection 5.0.0 -> Autofac (>= 4.9.1) \r\n Business -> Autofac (>= 4.6.0)",
-      "libraryId": "Autofac",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  "logs": []
 }

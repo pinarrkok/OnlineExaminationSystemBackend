@@ -18,6 +18,7 @@ namespace Business.Constants
         public static string ExamAdded = "Sınav başarıyla eklendi.";
         public static string ExamDeleted = "Sınav başarıyla silindi.";
         public static string ExamUpdated = "Sınav başarıyla güncellendi.";
+        public static string ExamAlreadyExists = "Bu sınav zaten eklendi.";
 
         public static string UserNotFound = "Kullanıcı bulunamadı.";
         public static string PasswordError = "Şifre hatalı.";

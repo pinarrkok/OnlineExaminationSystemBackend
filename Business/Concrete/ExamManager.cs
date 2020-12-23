@@ -9,6 +9,7 @@ using Core.Aspects.Autofac.Transaction;
 using Core.Aspects.Autofac.Validation;
 using Core.CrossCuttingConcerns.Logging.Log4Net.Loggers;
 using Core.CrossCuttingConcerns.Validation;
+using Core.Utilities.Business;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
@@ -33,7 +34,7 @@ namespace Business.Concrete
         [ValidationAspect(typeof(ExamValidator), Priority = 1)]
         [CacheRemoveAspect("IExamService.Get")]
         public IResult Add(ExamDto examDto)
-        {            
+        {        
             var exam = new Exam
             {
                 Title = examDto.Title,
@@ -44,8 +45,24 @@ namespace Business.Concrete
                 EndTime = DateTime.Parse(examDto.EndTime)
             };
 
+            IResult result = BusinessRules.Run(CheckIfExamNameExists(exam.Title));
+            if (result != null)
+            {
+                return result;
+            }
+
             _examDal.Add(exam);
             return new SuccessResult(Messages.ExamAdded);
+        }
+
+        private IResult CheckIfExamNameExists(string examTitle)
+        {
+            if (_examDal.Get(p => p.Title == examTitle) != null)
+            {
+                return new ErrorResult(Messages.ExamAlreadyExists);
+            }
+
+            return new SuccessResult();
         }
 
         public IResult Delete(int examId)
@@ -74,6 +91,7 @@ namespace Business.Concrete
 
         [SecuredOperation("Student.List")]
         [LogAspect(typeof(FileLogger))]
+        //[LogAspect(typeof(DatabaseLogger))]
         [CacheAspect(10)]
         public IDataResult<List<Exam>> GetList()
         {

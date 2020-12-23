@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZMXb8ZkY18YzwwgNnjW+j6AH3v5hNrCxltIL1DYg36xJsw9C2zNei3lAxiN+6jZWVMBeAG5HkqJX/QSDsWQPdQ==",
+  "dgSpecHash": "V33GzSDqS0yAGBa06P74VlNaDa5Z0E7AR7yCh+DvZceKwNYJhiHRQa03/lLNKsCiEQm6j+YHTjXl+fRq383nSQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Pinar\\.nuget\\packages\\autofac\\4.9.1\\autofac.4.9.1.nupkg.sha512",
+    "C:\\Users\\Pinar\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\autofac.extensions.dependencyinjection\\5.0.0\\autofac.extensions.dependencyinjection.5.0.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\autofac.extras.dynamicproxy\\4.5.0\\autofac.extras.dynamicproxy.4.5.0.nupkg.sha512",
     "C:\\Users\\Pinar\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",

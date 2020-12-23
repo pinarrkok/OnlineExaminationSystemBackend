@@ -2,13 +2,13 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Autofac/4.9.1": {
+      "Autofac/5.0.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Autofac.dll": {}
+          "lib/netstandard2.1/Autofac.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Autofac.dll": {}
+          "lib/netstandard2.1/Autofac.dll": {}
         }
       },
       "Autofac.Extensions.DependencyInjection/5.0.0": {
@@ -2474,8 +2474,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Autofac": "4.6.0",
-          "Autofac.Extras.DynamicProxy": "4.5.0",
+          "Autofac": "5.0.0",
+          "Autofac.Extensions.DependencyInjection": "5.0.0",
           "DataAccess": "1.0.0",
           "Entities": "1.0.0",
           "FluentValidation": "8.5.0",
@@ -2541,24 +2541,25 @@
     }
   },
   "libraries": {
-    "Autofac/4.9.1": {
-      "sha512": "L92DMQxpy4Xw3IypXxL8Z4NHt+qIkB1e0NB2OJ9u105Xp5sVsZSJ04YtYyubmM3KG8aC+WpyBhN14XcjPx5gLg==",
+    "Autofac/5.0.0": {
+      "sha512": "U1aCHUMXuG7DDJ5JmTXF2kInXpad3Fuow+voSXEVunDHW4OkD8GDWJjleHpJPanpP+3dUQYLAM9R2lftGiQSbA==",
       "type": "package",
-      "path": "autofac/4.9.1",
+      "path": "autofac/5.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "autofac.4.9.1.nupkg.sha512",
+        "autofac.5.0.0.nupkg.sha512",
         "autofac.nuspec",
-        "lib/net45/Autofac.dll",
-        "lib/net45/Autofac.pdb",
-        "lib/net45/Autofac.xml",
-        "lib/netstandard1.1/Autofac.dll",
-        "lib/netstandard1.1/Autofac.pdb",
-        "lib/netstandard1.1/Autofac.xml",
+        "icon.png",
+        "lib/net461/Autofac.dll",
+        "lib/net461/Autofac.pdb",
+        "lib/net461/Autofac.xml",
         "lib/netstandard2.0/Autofac.dll",
         "lib/netstandard2.0/Autofac.pdb",
-        "lib/netstandard2.0/Autofac.xml"
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.pdb",
+        "lib/netstandard2.1/Autofac.xml"
       ]
     },
     "Autofac.Extensions.DependencyInjection/5.0.0": {

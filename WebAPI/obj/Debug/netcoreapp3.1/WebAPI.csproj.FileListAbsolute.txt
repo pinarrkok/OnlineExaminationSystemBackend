@@ -162,3 +162,9 @@ C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\log4net.config
 C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\MicroKnights.Log4NetAdoNetAppender.dll
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Pinar\Desktop\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache

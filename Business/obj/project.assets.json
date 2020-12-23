@@ -2,17 +2,16 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
-      "Autofac/4.6.0": {
+      "Autofac/5.0.0": {
         "type": "package",
         "dependencies": {
-          "NETStandard.Library": "1.6.0",
-          "System.ComponentModel": "4.0.1"
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.0"
         },
         "compile": {
-          "lib/netstandard1.1/Autofac.dll": {}
+          "lib/netstandard2.0/Autofac.dll": {}
         },
         "runtime": {
-          "lib/netstandard1.1/Autofac.dll": {}
+          "lib/netstandard2.0/Autofac.dll": {}
         }
       },
       "Autofac.Extensions.DependencyInjection/5.0.0": {
@@ -2015,19 +2014,25 @@
     }
   },
   "libraries": {
-    "Autofac/4.6.0": {
-      "sha512": "Y+7B007u3cYpjU4THI9/i2pSyRnHjZtRJOrjGiHYPH5C32jJZ5njWjgLVnI6nmsYjUrYcWjXLfB13J3ztd37cw==",
+    "Autofac/5.0.0": {
+      "sha512": "U1aCHUMXuG7DDJ5JmTXF2kInXpad3Fuow+voSXEVunDHW4OkD8GDWJjleHpJPanpP+3dUQYLAM9R2lftGiQSbA==",
       "type": "package",
-      "path": "autofac/4.6.0",
+      "path": "autofac/5.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "autofac.4.6.0.nupkg.sha512",
+        "autofac.5.0.0.nupkg.sha512",
         "autofac.nuspec",
-        "lib/net45/Autofac.dll",
-        "lib/net45/Autofac.xml",
-        "lib/netstandard1.1/Autofac.dll",
-        "lib/netstandard1.1/Autofac.xml"
+        "icon.png",
+        "lib/net461/Autofac.dll",
+        "lib/net461/Autofac.pdb",
+        "lib/net461/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.pdb",
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.pdb",
+        "lib/netstandard2.1/Autofac.xml"
       ]
     },
     "Autofac.Extensions.DependencyInjection/5.0.0": {
@@ -6908,8 +6913,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Autofac >= 4.6.0",
-      "Autofac.Extras.DynamicProxy >= 4.5.0",
+      "Autofac >= 5.0.0",
+      "Autofac.Extensions.DependencyInjection >= 5.0.0",
       "DataAccess >= 1.0.0",
       "Entities >= 1.0.0",
       "FluentValidation >= 8.5.0",
@@ -6963,11 +6968,11 @@
         "dependencies": {
           "Autofac": {
             "target": "Package",
-            "version": "[4.6.0, )"
+            "version": "[5.0.0, )"
           },
-          "Autofac.Extras.DynamicProxy": {
+          "Autofac.Extensions.DependencyInjection": {
             "target": "Package",
-            "version": "[4.5.0, )"
+            "version": "[5.0.0, )"
           },
           "FluentValidation": {
             "target": "Package",
@@ -6997,25 +7002,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: Autofac from 4.9.1 to 4.6.0. Reference the package directly from the project to select a different version. \r\n Business -> DataAccess -> Core -> Autofac.Extensions.DependencyInjection 5.0.0 -> Autofac (>= 4.9.1) \r\n Business -> Autofac (>= 4.6.0)",
-      "libraryId": "Autofac",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: Autofac from 4.9.1 to 4.6.0. Reference the package directly from the project to select a different version. \r\n Business -> Entities -> Core -> Autofac.Extensions.DependencyInjection 5.0.0 -> Autofac (>= 4.9.1) \r\n Business -> Autofac (>= 4.6.0)",
-      "libraryId": "Autofac",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  }
 }
