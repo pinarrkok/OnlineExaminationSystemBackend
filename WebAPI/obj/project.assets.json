@@ -8243,19 +8243,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pinar\\.nuget\\packages\\": {}
+    "C:\\Users\\pinar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\pinar\\Masaüstü\\pin\\Senior Project\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\Pinar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\pinar\\Masaüstü\\pin\\Senior Project\\OnlineExaminationSystemBackend\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\pinar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pinar\\Masaüstü\\pin\\Senior Project\\OnlineExaminationSystemBackend\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8267,9 +8267,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Pinar\\Desktop\\pin\\Senior Project\\OnlineExaminationSystemBackend\\Business\\Business.csproj"
+            "C:\\Users\\pinar\\Masaüstü\\pin\\Senior Project\\OnlineExaminationSystemBackend\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\pinar\\Masaüstü\\pin\\Senior Project\\OnlineExaminationSystemBackend\\Business\\Business.csproj"
             }
           }
         }
@@ -8282,6 +8283,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Autofac.Extensions.DependencyInjection": {
             "target": "Package",
@@ -8324,7 +8326,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

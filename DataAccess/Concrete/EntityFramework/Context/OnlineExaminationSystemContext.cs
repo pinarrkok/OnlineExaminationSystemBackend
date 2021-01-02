@@ -11,7 +11,7 @@ namespace DataAccess.Concrete.EntityFramework.Context
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=OnlineExaminationSystem;Trusted_Connection=true");
+            optionsBuilder.UseSqlServer(@"Server=DESKTOP-1RN33AQ\SQLEXPRESS;Database=OnlineExaminationSystem;Trusted_Connection=true");
         }
         public DbSet<Course> Courses { get; set; }
         public DbSet<CourseExam> CourseExams { get; set; }

@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Pinar\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Pinar\\.nuget\\packages"
+      "C:\\Users\\pinar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pinar\\.nuget\\packages"
     ]
   }
 }

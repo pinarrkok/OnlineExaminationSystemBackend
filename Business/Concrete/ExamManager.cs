@@ -31,8 +31,8 @@ namespace Business.Concrete
             _examDal = examDal;
         }
 
-        [ValidationAspect(typeof(ExamValidator), Priority = 1)]
-        [CacheRemoveAspect("IExamService.Get")]
+        //[ValidationAspect(typeof(ExamValidator), Priority = 1)]
+        //[CacheRemoveAspect("IExamService.Get")]
         public IResult Add(ExamDto examDto)
         {        
             var exam = new Exam
@@ -89,10 +89,10 @@ namespace Business.Concrete
             return new SuccessDataResult<Exam>(_examDal.Get(filter: exam => exam.Title == examTitle));
         }
 
-        [SecuredOperation("Student.List")]
-        [LogAspect(typeof(FileLogger))]
+        //[SecuredOperation("Student.List")]
+        //[LogAspect(typeof(FileLogger))]
         //[LogAspect(typeof(DatabaseLogger))]
-        [CacheAspect(10)]
+        //[CacheAspect(10)]
         public IDataResult<List<Exam>> GetList()
         {
             return new SuccessDataResult<List<Exam>>(_examDal.GetList().ToList());
