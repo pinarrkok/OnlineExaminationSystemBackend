@@ -34,16 +34,16 @@ namespace Core.Extensions
             httpContext.Response.ContentType = "application/json";
             httpContext.Response.StatusCode = (int) HttpStatusCode.InternalServerError;
 
-            string message = "Internal Server Error";
-            if (e.GetType() == typeof(ValidationException))
-            {
-                message = e.Message;
-            }
+            //string message = "Internal Server Error";
+            //if (e.GetType() == typeof(ValidationException))
+            //{
+            //    message = e.Message;
+            //}
 
             return httpContext.Response.WriteAsync(new ErrorDetails
             {
                 StatusCode = httpContext.Response.StatusCode,
-                Message = message
+                Message = e.Message
             }.ToString()); ;
         }
     }

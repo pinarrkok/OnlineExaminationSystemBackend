@@ -49,11 +49,11 @@
           "dependencies": {
             "Autofac": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "FluentValidation": {
               "target": "Package",
@@ -122,11 +122,11 @@
           "dependencies": {
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Autofac.Extras.DynamicProxy": {
               "target": "Package",
-              "version": "[4.5.0, )"
+              "version": "[6.0.0, )"
             },
             "FluentValidation": {
               "target": "Package",
@@ -358,7 +358,7 @@
           "dependencies": {
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "MicroKnights.Log4NetAdoNetAppender": {
               "target": "Package",

@@ -236,3 +236,4 @@ C:\Users\pinar\Masaüstü\pin\Senior Project\OnlineExaminationSystemBackend\WebA
 C:\Users\pinar\Masaüstü\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\pinar\Masaüstü\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\pinar\Masaüstü\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\pinar\Masaüstü\pin\Senior Project\OnlineExaminationSystemBackend\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll

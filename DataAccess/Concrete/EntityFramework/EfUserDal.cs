@@ -11,7 +11,7 @@ using System.Text;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class EfUserDal : EfEntityRepositoryBase<User, OnlineExaminationSystemContext>, IUserDal
+    public class EfUserDal: EfEntityRepositoryBase<User, OnlineExaminationSystemContext>, IUserDal
     {
         public List<OperationClaim> GetClaims(User user)
         {
